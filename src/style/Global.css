@@ -1,0 +1,15 @@
+/* ----------------------------- */
+.container .nav-left {
+  background-color: #001535;
+  color: #ffffff;
+  height: calc(100vh);
+}
+.container .main {
+  background-color: #f1f3f5;
+  overflow: auto;
+  height: calc(100vh);
+}
+.container .content {
+  position: relative;
+  padding: 20px;
+}
